@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Mureille Laure Obaya</h1>
-<h3 align="center">Discover who I am here</h3>
+<h3 align="center">Discover who I am</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Laureoby&label=Profile%20views&color=0e75b6&style=flat" alt="Laureoby" />
@@ -35,7 +35,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,css,html,wordpress,js,ts,mysql,python,github,git,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,css,html,wordpress,js,mysql,python,github,git,tensorflow" />
 </p>
 
 ---
