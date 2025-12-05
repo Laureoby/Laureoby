@@ -12,16 +12,19 @@
 
 ---
 
-- I’m currently Deep-diving into **modern JavaScript tools & Symfony**
+- I’m able to collect, annotate, clean and visualize data
+- I can finetune Machine Learning and Deep Learning models
+- I create flyers and communication supports.
+- I have some knowledges in Wordpress, HTML5/CSS3, React JS, Python, R and Power BI.
 - Explore my code, projects, and playgrounds on GitHub
-- **Fun fact**: I bring ideas to life faster than I choose a Netflix show 🎬💡
+- **Fun fact**: I like dance.
 
 ---
 
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/megane-demgne/" target="_blank">
+  <a href="www.linkedin.com/in/mureille-laure-obaya-878770210" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
@@ -31,7 +34,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,threejs,nodejs,symfony,php,aframe,tailwind,bootstrap,css,html,aws,js,ts,mysql,postgres,docker,python,androidstudio,java,github,git,bash,jquery,sass,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,css,html,wordpress,js,ts,mysql,python,github,git,tensorflow" />
 </p>
 
 ---
@@ -39,7 +42,7 @@
 ### GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MeganeFarelle&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Laureoby&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -47,17 +50,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MeganeFarelle&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeganeFarelle&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeganeFarelle&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Laureoby&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Laureoby&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laureoby&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
-
-### ☕ Support Me
-
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="40" alt="Buy Me A Coffee" />
-  </a>
-</p>
