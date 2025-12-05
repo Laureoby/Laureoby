@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+Trainer+%7C+Graphic+designer+%7C+Web+developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=800020&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+AI+Trainer+%7C+Web+developer" alt="Typing SVG" />
 </p>
 
 
@@ -15,8 +15,7 @@
 
 - I’m able to collect, annotate, clean and visualize data
 - I can finetune Machine Learning and Deep Learning models
-- I create flyers and communication supports.
-- I have some knowledges in Wordpress, HTML5/CSS3, React JS, Python, R and Power BI.
+- I provide training in Machine Learning, data analysis, ...etc.
 - Explore my code, projects, and playgrounds on GitHub
 - **Fun fact**: I love sports, especially Latin dancing. It's my passion.
 ---
