@@ -18,14 +18,13 @@
 - I create flyers and communication supports.
 - I have some knowledges in Wordpress, HTML5/CSS3, React JS, Python, R and Power BI.
 - Explore my code, projects, and playgrounds on GitHub
-- **Fun fact**: I like dance.
-
+- **Fun fact**: I love sports, especially Latin dancing. It's my passion.
 ---
 
 ### Connect with me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/mureille-laure-obaya-878770210" target="_blank">
+  <a href="https://www.linkedin.com/in/mureille-laure-obaya-878770210" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
