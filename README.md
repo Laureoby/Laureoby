@@ -41,8 +41,16 @@
 ### GitHub Stats
 
 <p align="center">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Laureoby&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_title=false" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Laureoby&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+   <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Laureoby&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=Laureoby&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
