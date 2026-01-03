@@ -26,10 +26,10 @@
   <a href="https://www.linkedin.com/in/mureille-laure-obaya-878770210" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/ObyLaure?s=09" target="_blank">
+  <a href="https://x.com/ObyLaure?s=09" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
   </a>
-  <a href="https://www.facebook.com/laure.oby" target="_blank">
+  <a href="https://www.facebook.com/laure.oby" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter" />
   </a>
 </p>
